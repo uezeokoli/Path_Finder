@@ -1,7 +1,4 @@
 // /****************************************************************************************
-// *  Ugonna Ezeokoli
-// *  uezeokol
-// *  2024 Winter CSE101 PA2 
 // *  FindPath.c
 // *  Outputs distance and path given # of vertices, edges, source, and destination
 // *****************************************************************************************/
