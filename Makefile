@@ -1,9 +1,4 @@
 #------------------------------------------------------------------------------
-# Ugonna Ezeokoli
-# uezeokol 
-# 2024 Winter CSE101 PA2 
-# Makefile for CSE 101 Programming Assignment 2  
-#
 #  make                     makes FindPath
 #  make GraphTest           makes GraphTest
 #  make clean               removes binaries
